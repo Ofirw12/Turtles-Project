@@ -1,5 +1,5 @@
 # Turtles-Project
-This is a Java project that demonstrates the use of inheritance, polymorphism, and interfaces in creating a turtle army that can be controlled by the user. The project consists of three separate assignments, each building on the previous one to create a fully-functional turtle army.
+This is a Java project made in Object Oriented Programming Course that demonstrates the use of inheritance and polymorphism in creating a turtle army that can be controlled by the user. The project consists of three separate assignments, each building on the previous one to create a fully-functional turtle army.
 
 # Assignment 1: TwoTurtles
 In the first assignment, you are required to write a TwoTurtles.java file that uses the turtle.jar file to create two turtles named Java and Python. You will then use these turtles to draw a laptop on the screen.
